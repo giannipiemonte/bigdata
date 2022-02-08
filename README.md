@@ -3,7 +3,9 @@
 
 LIVE CORP
 You are a young freelance entrepreneur specialized in machine learning. One of your “friends” recommended
-you to a company called Live Corp. Live Corp is looking for a Freelancer to launch their disease
+you to a company called Live Corp. 
+
+Live Corp is looking for a Freelancer to launch their disease
 prediction business. However, this startup is starting from scratch, they clearly need you. 
 They have sold the project so well that investors have given several billion euros.
 
